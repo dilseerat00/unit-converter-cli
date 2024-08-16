@@ -1,7 +1,7 @@
-# Comprehensive Unit Converter
+# Category Unit Converter
 
 ## Aim
-The Comprehensive Unit Converter project aims to develop a user-friendly Java-based application capable of performing accurate and efficient conversions across multiple measurement units, including length, volume, area, weight, and temperature. The primary objective is to provide a reliable tool for both internal teams and clients to facilitate various unit conversions without the need for manual calculations.
+The Category Unit Converter project aims to develop a user-friendly Java-based application capable of performing accurate and efficient conversions across multiple measurement units, including length, volume, area, weight, and temperature. The primary objective is to provide a reliable tool for both internal teams and clients to facilitate various unit conversions without the need for manual calculations.
 
 ## Implementation
 The project is implemented in Java and features a console-based application with methods for converting the following units:
