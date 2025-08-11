@@ -42,3 +42,7 @@ The goal is to provide **high accuracy, professional usability, and extensibilit
 
 ---
 
+## Contact
+For any questions or feedback, please reach out to [dilseeratjassal@gmail.com](mailto:dilseeratjassal@gmail.com).
+
+
